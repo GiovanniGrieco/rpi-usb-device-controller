@@ -27,4 +27,3 @@ uhubctl -l $HUB_NAME -p $USB_PORT -a on
 mount -a
 systemctl start smbd
 systemctl start smartd
-
