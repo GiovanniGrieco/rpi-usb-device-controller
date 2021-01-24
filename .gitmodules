@@ -1,0 +1,3 @@
+[submodule "uhubctl"]
+	path = uhubctl
+	url = https://github.com/mvp/uhubctl
